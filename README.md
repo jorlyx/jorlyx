@@ -44,37 +44,3 @@ Mid-Term Goals:
 ### Get in Touch
 jorai8.thomas@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/jorai-thomas-cs)
-
-
-
-
-
-
-
-
-
-
-
-Learning Roadmap
-
-Short-Term Goals:
-
-Complete BFS/A* Pathfinding Visualiser and Pico Ultrasonic Project
-
-Continue NeetCode practice for DSA fluency
-
-Polish and document C++ and Java lab repositories
-
-Mid-Term Goals:
-
-Build a Linux-based home server for self-hosted applications
-
-Begin ROS simulations and simple robotics control projects
-
-Expand portfolio with applied AI and embedded system integrations
-
-Get in Touch
-
-Email: jorai8.thomas@gmail.com
-
-LinkedIn: linkedin.com/in/jorai-thomas-cs
