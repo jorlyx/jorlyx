@@ -16,7 +16,6 @@ Always eager to learn from others
 - Ultrasonic Distance System (Raspberry Pi Pico)
 - NeetCode DSA Practice – Arrays, Hash Maps, Recursion
 - C++ Fundamentals Labs – Pointers, References, Modular Programming
-- Java Algorithm Labs – Divide and Conquer (QuickSort, Kth Smallest)
 - Upcoming: Home Server setup and ROS simulations
 
 ### Projects & Coursework
