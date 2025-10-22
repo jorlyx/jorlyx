@@ -29,6 +29,12 @@ Always eager to learn from others
 - Personal | Random Password Generator Website	| Python (Flask), JS	| Full-stack app that generates secure passwords through a web interface.
 - Hardware | Ultrasonic Proximity System (In Progress)	| MicroPython (Pico)	| Real-time distance detection with LED and buzzer feedback.
 - Systems | Home Server / ROS Simulation (Planned)	| Linux, Docker, ROS	| Exploring local robotics simulations and server configuration.
+- University	| Java OOP Portfolio	Java	Object-oriented design coursework focusing on classes, enums, validation, and testing.
+- University	| OS Scheduling Simulator	Java	Simulates CPU scheduling algorithms (FCFS, Priority, Round Robin) and process queues.
+- University	| Volleyball Club Database WebApp	Node.js, MySQL, EJS	Web-based CRUD system managing courses, teams, and player data.
+- University	| FlickFinder MovieSearch API	Node.js, Express, OMDB API	REST API application integrating movie search and external data handling.
+- University / Hardware |	Raspberry Pi Morse Decoder	| Python, Raspberry Pi	| Uses GPIO input to decode Morse code signals into text output.
+
 
 ### Learning Roadmap
 - Short-Term Goals:
