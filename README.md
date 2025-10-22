@@ -20,21 +20,9 @@ Always eager to learn from others
 - Upcoming: Home Server setup and ROS simulations
 
 ### Projects & Coursework
-- Category	| Project |	Language/Tech |	Description
-- University	| C++ Fundamentals Labs |	C++	| Syntax, memory concepts, functions, and modular programming.
-- University |	Advanced Algorithms Labs	| Java |	Implementations of QuickSort, Kth Smallest, and other divide-and-conquer algorithms.
-- Practice	| DSA Problem Solving	| Python	| Daily NeetCode exercises covering arrays, recursion, and search algorithms.
-- Personal	| Speech-to-Text Recognition	| Python	| Converts speech to text with error handling and file I/O.
-- Personal	| Basic Calculator CLI	| Python	| Command-line calculator with input validation and loop control.
-- Personal | Random Password Generator Website	| Python (Flask), JS	| Full-stack app that generates secure passwords through a web interface.
-- Hardware | Ultrasonic Proximity System (In Progress)	| MicroPython (Pico)	| Real-time distance detection with LED and buzzer feedback.
-- Systems | Home Server / ROS Simulation (Planned)	| Linux, Docker, ROS	| Exploring local robotics simulations and server configuration.
-- University	| Java OOP Portfolio	Java	Object-oriented design coursework focusing on classes, enums, validation, and testing.
-- University	| OS Scheduling Simulator	Java	Simulates CPU scheduling algorithms (FCFS, Priority, Round Robin) and process queues.
-- University	| Volleyball Club Database WebApp	Node.js, MySQL, EJS	Web-based CRUD system managing courses, teams, and player data.
-- University	| FlickFinder MovieSearch API	Node.js, Express, OMDB API	REST API application integrating movie search and external data handling.
-- University / Hardware |	Raspberry Pi Morse Decoder	| Python, Raspberry Pi	| Uses GPIO input to decode Morse code signals into text output.
-
+- I actively document both university coursework and personal learning projects on GitHub, covering topics from full-stack web apps and algorithms to embedded systems.
+- See Repositories for Personal Projects and Coursework Documentations
+- See 'Projects' for my Learning and Projects Roadmap for 2025/26
 
 ### Learning Roadmap
 - Short-Term Goals:
