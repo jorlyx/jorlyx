@@ -21,7 +21,7 @@ Always eager to learn from others
 
 ### Projects & Coursework
 - I actively document both university coursework and personal learning projects on GitHub, covering topics from full-stack web apps and algorithms to embedded systems.
-- See Repositories for Personal Projects and Coursework Documentations
+- See Repositories for Personal Projects and Coursework Documentations[View All Repositories →](https://github.com/jorlyx?tab=repositories)
 - See 'Projects' for my Learning and Projects Roadmap for 2025/26
 
 ### Learning Roadmap
