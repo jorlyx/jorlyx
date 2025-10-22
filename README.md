@@ -1,16 +1,15 @@
-## Hi there 👋
+#  Hi, I'm Jorai Thomas  
+2nd Year Computer Science student @ University of Surrey  
+Passionate about Robotics, Artificial Intelligence, and Automation  
+Building projects in Python, Java, and Web Development  
+Always eager to learn from others
 
-<!--
-**jorlyx/jorlyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tech Stack
+- **Languages:** Python, Java, JavaScript, SQL  
+- **Frameworks:** Flask, Node.js, Express  
+- **Tools:** Git, MySQL, VSCode  
+- **Interests:** Robotics • AI • Embedded Systems • Automation
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Get in Touch
+jorai8.thomas@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/jorai-thomas-cs)
