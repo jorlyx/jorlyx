@@ -30,12 +30,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Juypter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-###  Current Focus
-- BFS/A* Pathfinding Visualiser (Python)
-- Ultrasonic Distance System (Raspberry Pi Pico)
-- NeetCode DSA Practice – Arrays, Hash Maps, Recursion
-- C++ Fundamentals Labs – Pointers, References, Modular Programming
-- Upcoming: Home Server setup and ROS simulations
 
 ### Projects & Coursework
 - I actively document both university coursework and personal learning projects on GitHub, covering topics from full-stack web apps and algorithms to embedded systems.
