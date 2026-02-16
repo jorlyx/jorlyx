@@ -1,31 +1,34 @@
 #  Hi, I'm Jorai Thomas  
-2nd Year Computer Science student @ University of Surrey  
-Passionate about Robotics, Artificial Intelligence, and Automation.
-Currently developing projects across Python, Java, C++, and Web Development while strengthening my foundations in algorithms, systems, and embedded programming.
-Building projects in Python, Java, and Web Development  
-Always eager to learn from others
+2nd Year Computer Science student @ University of Surrey — building toward **medical data science** with a focus on **genomics / computational biology** and clinically responsible ML evaluation.
+## What I’m doing now
+- Building a **DNA variant classifier** (ClinVar): predict **Pathogenic vs Benign** from sequence context
+- Strengthening fundamentals in **ML evaluation**, reproducibility, and data pipelines
+- Practicing “clinical thinking”: generalisation, bias/imbalance, and threshold trade-offs
+
+## Flagship projects
+- **BreastMNIST Clinical Evaluation** — Logistic Regression vs CNN, ROC/AUC, confusion matrices, early stopping, test-set discipline  
+- **AI Coursework (COM2028)** — implemented ML methods from first principles (logistic regression gradients, SGD, k-means, numerical stability)  
+- **Embedded Signal Classification** — noisy signal → feature extraction → automated classification (Raspberry Pi)
+
 
 ### Tech Stack
-**Languages**  
+**Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Frameworks & Libraries**  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+**ML/Data:**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
-**Tools & Platforms**  
+**Tools:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Raspberry Pi Pico](https://img.shields.io/badge/Raspberry%20Pi%20Pico-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Juypter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ###  Current Focus
 - BFS/A* Pathfinding Visualiser (Python)
@@ -43,14 +46,11 @@ Always eager to learn from others
 
 ### Learning Roadmap
 - Short-Term Goals:
-- Complete BFS/A* Pathfinding Visualiser and Pico Ultrasonic Project
-- Continue NeetCode practice for DSA fluency
-- Polish and document C++ and Java lab repositories
-
-Mid-Term Goals:
-- Build a Linux-based home server for self-hosted applications
-- Begin ROS simulations and simple robotics control projects
-- Expand portfolio with applied AI and embedded system integrations
+- Biology bridge: Sequence basics, alignment, HMM intuition (target: solid conceptual base)
+- Learn and parse: **FASTA / VCF / BED**
+- Build clean pipelines (Pandas first; Dask later if needed)
+- Attention basics → apply to DNA sequence modelling
+- Goal: baseline transformer classifier for variant context
 
 ### Get in Touch
 jorai8.thomas@gmail.com  
