@@ -88,4 +88,13 @@ k-means, numerical stability. Foundation for everything built since.
 ## 📍 Research Roadmap
 
 - ✅ BreastMNIST — clinical ML evaluation foundation
-- ✅ ClinVar classifier — real genomic data, confounder audit, sequence encoding
+- ✅ ClinVar classifier — real genomic data, confounder audit, sequence encoding, live demo
+- 🔄 Adversarial deconfounding dissertation — TCGA + 1000 Genomes, DNABERT, population-invariant features
+- 📋 ACMG/AMP clinical variant interpretation tool — benchmarked against InterVar/VarSome, equity layer built in
+
+---
+
+## 📬 Get in Touch
+
+jorai8.thomas@gmail.com
+[LinkedIn](https://www.linkedin.com/in/jorai-thomas-cs)
